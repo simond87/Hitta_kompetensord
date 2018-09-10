@@ -1,0 +1,57 @@
+Startposition 1678 och slutposition 1688		algoritmer
+Startposition 1816 och slutposition 1819		api
+Startposition 2797 och slutposition 2803		bilstm
+Startposition 2051 och slutposition 2058		clojure
+Startposition 2614 och slutposition 2621		clojure
+Startposition 2623 och slutposition 2636		clojurescript
+Startposition 2828 och slutposition 2831		crf
+Startposition 2638 och slutposition 2645		datomic
+Startposition 2662 och slutposition 2677		datorlingvistik
+Startposition 2779 och slutposition 2792		deep learning
+Startposition 2554 och slutposition 2574		distribuerade system
+Startposition 2011 och slutposition 2017		docker
+Startposition 2841 och slutposition 2847		docker
+Startposition 2484 och slutposition 2509		funktionell programmering
+Startposition 2285 och slutposition 2288		git
+Startposition 4620 och slutposition 4623		git
+Startposition 1745 och slutposition 1750		glove
+Startposition 1649 och slutposition 1654		graph
+Startposition 2836 och slutposition 2839		hmm
+Startposition 3117 och slutposition 3127		innovation
+Startposition 1002 och slutposition 1023		klassificeringssystem
+Startposition 3401 och slutposition 3405		krav
+Startposition 2848 och slutposition 2858		kubernetes
+Startposition 1724 och slutposition 1730		lexvec
+Startposition 2737 och slutposition 2752		maskininlärning
+Startposition 3683 och slutposition 3698		maskininlärning
+Startposition 1476 och slutposition 1500		named entity recognition
+Startposition 2689 och slutposition 2692		nlp
+Startposition 2693 och slutposition 2696		nlu
+Startposition 1043 och slutposition 1053		ontologier
+Startposition 3517 och slutposition 3528		open source
+Startposition 2022 och slutposition 2031		openshift
+Startposition 2859 och slutposition 2868		openshift
+Startposition 2496 och slutposition 2509		programmering
+Startposition 2176 och slutposition 2195		programmeringsspråk
+Startposition 2070 och slutposition 2076		python
+Startposition 2654 och slutposition 2660		python
+Startposition 4503 och slutposition 4524		rekryteringslösningar
+Startposition 3963 och slutposition 3971		religion
+Startposition 1298 och slutposition 1307		samarbete
+Startposition 2060 och slutposition 2065		scala
+Startposition 2647 och slutposition 2652		scala
+Startposition 1507 och slutposition 1525		sentiment analysis
+Startposition 3522 och slutposition 3528		source
+Startposition 2730 och slutposition 2735		spacy
+Startposition 2713 och slutposition 2718		spark
+Startposition 2720 och slutposition 2728		sparknlp
+Startposition 3365 och slutposition 3370		språk
+Startposition 2697 och slutposition 2711		språkteknologi
+Startposition 1028 och slutposition 1038		taxonomier
+Startposition 2224 och slutposition 2245		testdriven utveckling
+Startposition 1447 och slutposition 1457		textanalys
+Startposition 2678 och slutposition 2688		textanalys
+Startposition 1658 och slutposition 1672		topic modeling
+Startposition 641 och slutposition 651		utveckling
+Startposition 2235 och slutposition 2245		utveckling
+Startposition 1732 och slutposition 1740		word2vec
