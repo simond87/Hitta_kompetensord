@@ -1,4 +1,4 @@
 Resultatet ser i mina ögon ut att vara bra, vilket mycket är tack vare de reguljära uttrycken och match-objekten som låter mig använda finditer.
 Om jag inte har fått alla träffar så borde jag ha kommit väldigt nära.
 
-Jag använder listor mycket vilket antagligen gör programmet långsammare än vad det skulle kunna vara. Det skulle möjligen kunna göras med hjälp av dictionaries eller objektorientering, men jag har svårt att se hur man helt skulle kunna undgå att använda listor.
+Jag använder listor mycket vilket antagligen gör programmet långsammare än vad det skulle kunna vara. Det skulle möjligen kunna göras med hjälp av dictionaries eller objektorientering, men jag har svårt att se hur man helt skulle kunna undgå att använda listor. För större mängder text skulle man kunna anpassa de reguljära uttrycken så att de även hittar avstavningar med bindestreck vid rabryte. Då annonstexten för denna uppgift inte hade några sådana avstavningar så var det inte nödvändigt dock.
