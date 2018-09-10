@@ -1,0 +1,41 @@
+Arbetsförmedlingen är Sveriges största förmedlare av arbeten. Varje år sammanför vi på olika sätt tusentals arbetssökande med arbetsgivare som behöver nya medarbetare. Vi har den samlade kunskapen om arbetsmarknaden, branscher och yrken. Som medarbetare hos oss får du, tillsammans med våra ca 14 000 kreativa och professionella medarbetare, vara med och bidra till att öka sysselsättningen och en välfungerande arbetsmarknad. Nu har vi inlett ett viktigt förnyelsearbete mot en modernare myndighet. Är du rätt person att hjälpa oss nå dit vi vill?
+
+Arbetsförmedlingen genomgår just nu ett intensivt förnyelsearbete. Detta kräver en kraftig utveckling av vår matchningsplattform för att möjliggöra framtagande av digitala tjänster, både inom och utanför Arbetsförmedlingen. Därför söker vi nu både juniora och seniora systemutvecklare till Arbetsförmedlingen Direkt, avdelning Matchning.
+
+Arbetsplatsen och arbetsuppgifter
+
+Teamet som du kommer att jobba i har sitt främsta fokus på klassificering och klassificeringssystem som taxonomier och ontologier över arbetsmarknaden. Rent konkret jobbar vi med de värden som används i matchningen mellan platsannonser och CV:n som till exempel yrkesbenämningar, kompetensord, förmågor och arbetsuppgifter. Klassificeringssystemen byggs upp manuellt i nära samarbete med en redaktion och maskinellt genom att bearbeta stora mängder text. Vid bearbetningen av text så använder vi oss av olika tekniker inom textanalys som till exempel "Named entity recognition" och "Sentiment analysis" med mera.
+
+Vi utvinner även relationer mellan begrepp på arbetsmarknaden med hjälp av teknologier som ”Semantic Knowledge Graph”, ”Topic modeling” och algoritmer för framtagande av ordvektorer som Lexvec, Word2Vec och GloVe. Vi tillgängliggör även klassificeringssystemen externt via REST-API:er som container-baserade micro-tjänster. Vi har stort fokus på att konsumerande system smärtfritt ska kunna följa med i förändringar av värdena i klassificeringssystemen. Vi använder oss av Docker och Openshift. Vi programmerar i Clojure, Scala och Python.
+
+Kvalifikationer
+
+Om du söker tjänsten som junior utvecklare så vill vi att du:
+
+
+• kan minst ett programmeringsspråk
+• du förstår fördelarna med testdriven utveckling
+• kan versionshantera kod med hjälp av Git
+
+Om du söker tjänsten som senior utvecklare så vill vi även att du:
+
+
+• kan designa och utveckla robusta och förändringsbara system och komponenter
+• kan bearbeta större datamängder med hjälp av funktionell programmering
+• har grepp om fördelen med immutabilitet i distribuerade system
+
+Vi ser det som meriterande om du kan: Clojure, Clojurescript, Datomic, Scala, Python, Datorlingvistik/Textanalys/NLP/NLU/Språkteknologi, Spark, SparkNLP, Spacy, Maskininlärning med hjälp av till exempel Deep Learning som BiLSTM men även äldre tekniker CRF och HMM, Docker/Kubernetes/OpenShift
+
+Stor vikt kommer att läggas vid dina personliga egenskaper. Vi söker därför dig som gillar att påverka och prova nya tekniker. Som trivs bäst i en roll där du får ta ett helhetsansvar för leveransen och givet en snabb förändringstakt också gillar innovation och nytänkande i kombination med kvalitet. Du har en personlig mognad och förmåga att samarbeta och kommunicera med olika sortens personer. Du har också ett driv och engagemang samt är prestigelös och resultatfokuserad. Ett intresse för språk och ord hjälper, men är inget krav.
+
+Vårt erbjudande
+
+Vår avdelning har ett stort fokus på öppenhet och samhällsnytta så du kommer att bidra till Open source och öppna data. Du har möjlighet att använda en del av din arbetstid varje år till att vidareutbilda dig och kan lära dig den senaste tekniken inom t.ex. maskininlärning via distanskurser på nätet. Arbetsförmedlingen erbjuder en attraktiv arbetsplats som utmärks av strävan att vara fri från diskriminering och ge lika möjligheter för alla. Vi välkomnar alla sökande oavsett kön, könsöverskridande identitet eller uttryck, etnicitet, religion, funktionsvariation, sexuell läggning och ålder. Läs mer om vår organisation och vårt uppdrag på vår hemsida www.arbetsformedlingen.se.
+
+Tjänsten
+
+Tjänsten är en tillsvidareanställning och omfattar heltidstjänstgöring. Tillträde snarast eller enligt överenskommelse. Provanställning 6 månader tillämpas om du inte redan är anställd i myndigheten. Placeringsort: Stockholm. Arbetsförmedlingen har tagit ställning till rekryteringskanaler och önskar därför inte kontakt med mediesäljare eller rekryteringsföretag gällande förslag på rekryteringslösningar.
+
+Ansökan
+
+Klicka på knappen ansök nedan, bifoga personligt brev och CV. Om du har ett publikt Git-repository får du gärna skicka med en länk till detta också. Tjänsten har diarienummer Af-2018/0035 0836. Sista ansökningsdag är den 2018-08-08.
